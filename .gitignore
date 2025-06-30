@@ -50,3 +50,6 @@ out/
 ### application-my.yml ###
 out/
 application-my.yml
+
+### Claude ###
+.claude/
